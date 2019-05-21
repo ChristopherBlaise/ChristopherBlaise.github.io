@@ -1,0 +1,82 @@
+h1 {
+  color: darkblue; 
+  font-size: 32px; 
+  font-family: Georgia, Times, serif; 
+  font-weight: normal; 
+}
+html, body{
+	height: 100%;
+	weight: 100%;
+}
+body {
+	font-family: Georgia, Times, serif;
+	font-weight: normal; 
+	font-size: 16px; 
+	
+}
+
+.content {
+
+  width: 80%; 
+  margin: 0 auto;
+
+}
+ 
+.header {
+
+  width: 80%; 
+  margin: 0 auto;
+
+}
+
+footer{
+  width: 80%;
+  margin: 0 auto;
+  text-align: right;
+ }
+
+ .menu {
+  width: 51%;
+  margin-left: 49%;
+  overflow: hidden;
+ }
+ .cont {
+  width: 84%;
+  margin-right: 16%;
+   }
+
+.arrow{
+  margin: 0 0 0 auto;
+  display: block;
+}
+
+  /* ScrollUP */
+.scrollup {
+  width: 40px;
+  height: 40px;
+  opacity: 0.3;
+  position: fixed;
+  bottom: 5%;
+  right: 4%;
+  display: none;
+  background: url(images/icon_top.png) no-repeat;
+}
+
+.container{
+  width: 110%;
+  margin: 0 auro;
+}
+/* Blocks */
+.line{
+  height: 38px;
+  margin: auto 0;
+}
+.title{
+  text-align: center;
+}
+
+
+
+
+
+#809FFE
